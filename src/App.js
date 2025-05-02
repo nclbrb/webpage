@@ -174,7 +174,7 @@ function App() {
         </section>
       </main>
       <footer className="bg-dark text-white text-center py-3">
-        <p>&copy; 2023 Nicole S. Borabo. All rights reserved.</p>
+        <p>&copy; 2025 Nicole S. Borabo. All rights reserved.</p>
       </footer>
     </>
   );
