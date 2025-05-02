@@ -8,6 +8,7 @@ import {
   FaLaravel
 } from 'react-icons/fa';
 import './App.css';
+import "./components/Footer"
 
 const NAV_ITEMS = ['home', 'about', 'education', 'projects'];
 
@@ -172,6 +173,9 @@ function App() {
           </div>
         </section>
       </main>
+      <footer className="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Nicole S. Borabo. All rights reserved.</p>
+      </footer>
     </>
   );
 }
